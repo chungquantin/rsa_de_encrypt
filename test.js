@@ -47,5 +47,4 @@ pow = (num, e) => {
 reverseString = (str) => {
 	return str.split("").reverse().join("");
 };
-// console.log(main(23, 8, 91));
-console.log((23 * 16 * 74 * (((74 % 91) * (74 % 91)) % 91)) % 91);
+console.log(main(71, 29, 91));
